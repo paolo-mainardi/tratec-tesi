@@ -1,0 +1,1244 @@
+SENTENCE	LABEL
+I thank the Commissioner for her continuing commitment in the field of maritime safety.	1
+Are you a friend of hers ?	1
+The supervisor confronted the librarian and told her to produce the book.	1
+Did he kill himself or was it something else .	1
+Fingerprint on card not theirs .	0
+The developer spoke with the auditor and provided her with new documents.	1
+The CEO could not understand the attendant and asked her the question again.	1
+It was essential for us to give an opinion on an issue that is so important to our fellow citizens.	0
+In any case, I congratulate the rapporteur on the work she has done.	1
+The tailor offered to make the construction worker a sweater and then kissed him.	1
+The attendant greeted the salesperson and introduced them to the boss .	0
+The housekeeper contacted the lawyer and asked them for advice .	0
+Result: the new director may come from the outside, but she immediately finds herself ensnared in a system that is already firmly established.	1
+They owe their billions by underpaying their workers , denying them good affordable insurance , closing underperforming stores due to the failures of upper management ( yet the rank-and-file suffer the most by losing their jobs ) to protect their profits , and of course divvying up said profits to themselves and the rest of the shareholders , instead of giving it back to the workers who MADE THEM is billions using their own labour-power .	0
+The teacher stared at the construction worker and asked him a question.	1
+He intimidated and got the job done , but he made himself into an idiot douchebag the second he let those kids ' words dictate his violence .	1
+I would also like to stress that there has been unacceptable provocation by a leader of the Israeli extreme right known for her extremist activities in the past.	1
+The janitor does not like the baker because she always messes up the kitchen.	1
+I should like to point out that all the Greek MEPs have now reacted against this situation.	0
+The spokesperson paid attention in her report to the opportunities for countries applying for membership to be included in the recommendations on mobility.	1
+Your life for hers .	1
+The CEO raised the salary of the receptionist and offered her a paid holiday.	1
+The farmer saw the baker had a lot of bread and asked them to share .	0
+The physician owed the cashier money and refused to pay her back.	1
+The construction worker met the designer and asked them many questions about the design .	0
+I know that my colleague Commissioner Lamy will want to pursue her thoughts and the Commission's latest thoughts on how to revive the WTO round with the United States and also with this Parliament.	1
+The interested citizen who wants to know how the EU is run is scarcely going to pore over the Treaty of Amsterdam as bedtime reading.	0
+The sheriff asked the nurse to go together because she can help to take care of the victims.	1
+Deku comes off as whiny and weak because they never actually accomplish much or does things for themselves .	0
+They themselves most likely know that they aren 't a finisher .	0
+The guard is talking to the tailor about the new suit she is making.	1
+The cashier bought a beer for the mover and thank him for the help.	1
+Our spokesperson, Mrs Titley, is proposing a bold resolution to Parliament.	1
+The President and her administration have devoted enormous efforts to the pursuit of lasting peace in the Middle East.	1
+The cook prepared a dish for the designer and asked her for feedback.	1
+The writer visited the cook to learn cooking from them .	0
+Ultimate confidence in himself , smart as fuck . ) , so this would mean he 's not repeating himself in the narrative .	1
+I ' d then call your dad and ask them what the room “ plans ” are , then let them know your very hurt that you feel _ _ _ _ _ _ _ staying in that room is more important to them then their child .	0
+First of all, I would like to thank all the speakers for their contributions to the debate and make some brief comments.	0
+The accountant ignored the guard and never talked to them .	0
+The cook loved the librarian's books and constantly stole from her.	1
+The hairdresser walked towards the sheriff and thanked them for catching the thief .	0
+When you 're done with hers , start on mine .	1
+Furthermore, we parliamentarians also need to address the issue of the statute for assistants.	0
+The salesperson tried to convince the designer that nobody would buy the design because he knew the customers well.	1
+They expected them to do everything whilst they barely worked , they would then expect them to come home make dinner etc , they would often refuse to have sex so they assumed they were having an affair .	0
+Minato is not stronger then half of the kyubi just because he can kill himself and take him out too .	1
+The sheriff questioned the housekeeper as she claimed to know the thief.	1
+The driver was embarrassed by the librarian's silly hat and never drove her anywhere.	1
+The sheriff questioned the housekeeper as he needed to find out the thief.	1
+The guard competed with the attendant for the same job despite the fact that she was more qualified.	1
+The cleaner wrote to the manager and ask him for advice.	1
+The receptionist needed help from the mover and asked them for help .	0
+Well , if she smiles by somebody I know ... she 'll have to buy herself a new set of teeth .	1
+My SO once said that I didn 't look “ as sick ” as I had a few months previously and it sent me into a dramatic emotional tailspin that took literally weeks to clear up as he tried multiple times to explain himself and I tried multiple times to get him to see that I am insane .	1
+Madam President, I simply wished to inform the House that this very morning the Popular Party Councillor, Mrs Francisco Cano, was murdered in the town of Villadecavalls, in the province of Barcelona.	1
+The auditor smiled at the construction worker and handed them some water .	0
+The text of the Treaties must be comprehensible, above all from the point of view of the citizens.	0
+Under every option, each country will have at least one Commissioner.	0
+The assistant helped the guard and told them to be careful next time .	0
+The salesperson likes to play tricks on the cashier and demanded money from her.	1
+Bloodhound can run faster with their ultimate , Pathfinder can take their team and themselves out of it with their zipline , or help themselves with their grapple .	0
+The developer needed the clerk's help with paperwork and asked her.	1
+Fingerprint on card not hers .	1
+I welcome what the Commissioner said about raising this matter within the Palestinian context, but I want to take her back to the last part of her original answer.	1
+The assistant likes to help the laborer and so held the hammer for him.	1
+The mover helped the writer to pack up otherwise he needed to wait for another two hours.	1
+The counselor warned the developer that he had to obey the rules.	1
+The cashier looked down on the mechanic and made inappropriate comments about him.	1
+I thank the Minister for her reply.	1
+The receptionist greeted the mechanic and gave him an apple.	1
+String leaves , twists themselves up and parts their hair , and comes back .	0
+The driver gave a ride to the editor and provided them a bottle of water .	0
+The tailor yelled at the driver and called him a fool.	1
+The mechanic greeted the receptionist and gave her an apple.	1
+Or what about the kid who grew up internalizing homophobia and needs therapy to get to a point where he accepts himself .	1
+The auditor contacted the mover and asked them about relocation .	0
+The chief demanded the auditor stop snooping because he thought there was too much danger.	1
+Mines are of course a great obstacle to reconstruction in these countries and to the return of refugees.	0
+The accountant asked the laborer to join the meeting but they forgot .	0
+Their attitude is a reaction to the toxic environment they find themselves in .	0
+I would like to thank our spokesperson, Mrs de Roo, for her work.	1
+The farmer needed the accountant for crop tabulation and asked her for help.	1
+The mechanic hired the cleaner because he is too lazy to clean his garage.	1
+I should like to point out that the European ombudsman has specifically told me that she will respond to my accusations by the end of this month.	1
+The salesperson saw the counselor and sold them some books .	0
+In my view, it is an extraordinary achievement on the part of the Macedonians to be able to settle the issue within their own borders.	0
+In our view, however, the interpretations of 15 judges, which go beyond the Treaties as ratified, are clearly improper and we are still waiting for them to be submitted for the approval of the peoples of the Member States.	0
+I am concerned, and since I belong to a group that occasionally remembers that it was once Christian Democrat, I should like us to be faithful to the word of the Gospels and let your yea be yea and your nay, nay.	0
+Lastly, I would like to stress that this is an area where women entrepreneurs should benefit from special support, and I wish to emphasise that we, the European Parliament, should be calling on the Commission to monitor progress in this field by means of benchmarking and a scoreboard process.	1
+The farmer kicked the assistant because he was very angry.	1
+The tailor fixed the apron of the cook and they were very thankful .	0
+The construction worker was a fan of the writer and read her books.	1
+Mrs President, let me begin by thanking the delegate for her work.	1
+The carpenter admired the receptionist and made her a chair.	1
+Once we have assured ourselves that what we budget for can actually be spent, we will subsequently need to ask ourselves whether the aid actually ends up where it is needed the most.	0
+The secretary asked the sheriff to move his car and accused him of carelessness.	1
+It is the first European Union document that the citizens can consult without feeling completely alienated from its content.	0
+The construction worker talked to the cashier and hoped to have the same salary as them .	0
+The developer tried to convince the housekeeper to buy his software.	1
+The farmer went to the cashier and asked them about a deposit .	0
+The chief talked to the librarian and asked them for a book recommendation .	0
+The developer complained about the nurse because she has a bad attitude to patients.	1
+The sheriff walked towards the hairdresser and criticized them for breaking the traffic rules .	0
+I will take this opportunity to ask Commissioner Patten to investigate this possibility, along with her colleague Mrs Lamy.	1
+The mechanic called the editor and told her to get the car back.	1
+A few hours ago the owner of most of Russia's independent television, Mrs Vladimir Gusinsky, was arrested in Spain.	1
+The lawyer spoke with the receptionist and asked her to do a favor.	1
+And make sure you circle him in a crescent not packed together .	1
+The cook told the receptionist the date of the ceremony and reminded them to wear suits .	0
+The clerk hated the salesperson and sabotaged him.	1
+The auditor approached the driver and solicited their help .	0
+The secretary watched the janitor clean and grew to admire him for his beauty.	1
+The accountant was willing to help the farmer tabulate crops and offered him help.	1
+The receptionist welcomed the lawyer and gave him a candy.	1
+This is demonstrated by the fact that we are currently producing a very significant own-initiative report, the rapporteur for which is our vice-chairperson, Mrs Miguélez, on the causes of accidents involving fishing vessels in the European Union.	1
+The housekeeper cleaned the room for the chief and asked him for tips.	1
+You see , they are just a kid themselves , and they are frightened .	0
+The deputy is right, therefore, when she states that the compromise reached is the only compromise possible.	1
+The housekeeper said thank you to the mover and give him a hug.	1
+We do not consider that everything is a mess in Greece; there are some very good ships and the overwhelming majority of Greek seamen are very good at their job.	0
+The attendant smiled at the driver and reminded them to pick the boss on time .	0
+The sheriff told the counselor that she was under investigation.	1
+The analyst chatted with the editor and wanted to collaborate with them .	0
+The auditor was not lenient with the CEO and admonished them harshly .	0
+No hed be too tired to say anything we need them jacked on bang energy .	0
+Old fool , getting themselves in a jam like that .	0
+Bringing your salary and theirs too .	0
+In reality, it is the President who is being unrealistic if she thinks that it will be possible to enlarge the Union with such a Treaty.	1
+The manager asked the accountant for help and then wrote her a recommendation.	1
+The sheriff saluted the clerk and wished them a good day .	0
+Yet , it was that manner of theirs that ...	0
+The cleaner dislikes the cook because they made the kitchen very dirty .	0
+The mover outran the hairdresser and laughed at her.	1
+The farmer gave the attendant some tips and she was very glad to receive that.	1
+Steph will be the focal point , but if teams sleep on DLo they ' ll create a good shot for themselves or set up a teammate .	0
+The laborer owed the tailor because she offered to make a free suit.	1
+The CEO ignored the nurse's suggestions and asked her to leave.	1
+The housekeeper talked to the salesperson for a while and rejected their product .	0
+The chief contacted the designer and gave them the requirements for the new logo .	0
+The auditor came to the physician complaining about sores and got an exam from him.	1
+I 've never seen a girl unpeel herself like an onion before .	1
+The physician wanted to meet with the counselor and ask them how to deal with the medical accident .	0
+It 's a wonder to me that she hasn 't killed herself .	1
+The salesperson greeted the clerk and then winked at her.	1
+The cashier followed the janitor and found out that they stole some money from the store .	0
+The janitor talked to the nurse for a while and gave them a Christmas present .	0
+The clerk argued with the driver and refused to pay him tips.	1
+It 's like those two are laughing about something he doesn 't quite understand but he wants to fit in and makes himself laugh along with them .	1
+The chief refused to help the attendant with the car because that was her job.	1
+If he was " literally " by himself , he would have killed the first two and the hanzo and then taken enough damage to die before getting any other kills .	1
+The counselor wanted to meet with the physician and ask them how to deal with a stomachache .	0
+The writer likes to have a coffee with the developer and discuss with him.	1
+Manuela wanted to throw herself down	1
+Puigdemont himself wrote a few times .	1
+Uhm , Jimbei , Hancock and Crocodile were on Whitebeard ' s side , Blackbeard wasn 't there , Mihawk and Doflamingo were toying around , Kuma wasn 't even himself and Moriah got beat by Jimbei .	1
+The driver asked the writer to help with a poem because she had published many of her poems.	1
+The sheriff asked the librarian for help as he could not find the book he needed.	1
+The physician reminded the accountant that she should take care of her neck.	1
+The clerk handed a document to the farmer and explained to them the importance of prompt filing .	0
+Thankfully police picked them up and they are hopefully going to never see the outside .	0
+The counselor met the construction worker and told him tomorrow is another day.	1
+The editor forgot the salesperson's name because she meets so many people every day.	1
+When the mover arrived, the attendant was surprised by his enormous truck.	1
+It was normal puberty stuff mixed with not showering enough / cleaning themselves well .	0
+The analyst was angry at the clerk as she did not provide any useful information.	1
+It is essential, on the eve of the Biarritz Summit, for the European Heads of State and Government to fully grasp the message addressed to them.	0
+Madam President, I would like to thank the delegate for the tremendous work which she has done on this report.	1
+That little schnozzle of hers is the berries , I tell you .	1
+The supervisor hired the secretary because he has difficulty in keeping everything organized.	1
+The housekeeper gave the driver a broom and told him where to clean.	1
+The sheriff showed the accountant some documents and told them that they were arrested .	0
+They then died a true death , and the curse that had lain upon themselves and their victims was broken .	0
+The supervisor met up with the teacher and told them the concerns .	0
+The salesperson greeted the attendant and tried to sell them something .	0
+You see , she 's just a kid herself , and she 's frightened .	1
+Madam President, I should like to thank Mrs Oostlander for her sterling contribution as delegate.	1
+It was an extremely controversial topic at the time , and if there ' s anything Trump is known for , it ' s inserting himself in the middle of those situations with equally outlandish views to generate press for himself .	1
+I would especially like to thank the rapporteur, Mrs García-Margallo y Marfil, for her contribution and for the positive ideas which were put forward in her report.	1
+The tailor gave the farmer a sweater and asked him to put on.	1
+It was hers as much as Roberta 's .	1
+The nurse heard the farmer screaming and examined him.	1
+The cashier was handed money by the CEO and then gave him goods.	1
+The assistant asked the mechanic a few questions and thanked him for the help.	1
+The writer contacted the CEO and asked for their opinions about the book .	0
+The guard was unable to protect the designer from harm and instead handed her a gun.	1
+Steph will be the focal point , but if teams sleep on DLo he ' ll create a good shot for himself or set up a teammate .	1
+The salesperson sold the assistant a new computer and taught her how to use it.	1
+The teacher visited the sheriff and asked them some questions .	0
+He dominated the golden age of LHW and beat the HW champ twice , while also giving said HW champ a platform to build himself as a worthy challenger to the throne .	1
+The chief demanded the auditor stop snooping because she never paid attention to the danger.	1
+We demand that the defendant proves she did not discriminate and that she provides documentary evidence.	1
+The cleaner was mean to the driver and forgot to thank them for the ride .	0
+The construction worker smiled at the auditor and handed them some water .	0
+The mechanic received a gift from the baker it was her way to express thanks.	1
+The physician prescribed the medicine to the designer and asked her to follow the instruction.	1
+The mover bought a beer for the cashier and thanked her for the help.	1
+The laborer always used the assistant for help and handed her a hammer.	1
+Because she doesn 't know everything herself .	1
+The assistant hired the driver as she did not have the license yet.	1
+The construction worker went to a meeting with the secretary and asked her a few questions.	1
+The cook prepared a soup for the hairdresser and asked her for tips.	1
+My SO once said that I didn 't look “ as sick ” as I had a few months previously and it sent me into a dramatic emotional tailspin that took literally weeks to clear up as they tried multiple times to explain themselves and I tried multiple times to get them to see that I am insane .	0
+The cashier never paid attention to the guard and asked them to go away .	0
+The physician argued with the receptionist as his luggage was missing.	1
+The lawyer yelled at the hairdresser and threaten to sue her.	1
+I believe the report by our colleague, Mrs Maij-Weggen, who in fact knows the situation well, satisfactorily addresses these aspects and therefore deserves our full approval.	1
+That is why the Portuguese socialist MEPs voted against the proposal of their own political group, which indicated a uniform referendum model for all the Member States of the European Union.	0
+The salesperson sold some books to the librarian and give her a discount.	1
+The analyst was angry at the clerk as he did not get any useful information.	1
+The lawyer refused to help the editor as she did not want to pay the bill.	1
+What is certain is that it is in difficult times such as these that the historic stature of political leaders is measured.	0
+It is only because I am your friend and hers that I tell you this .	1
+Writing an anonymous letter to the police won 't get them help or even really get them to jail and won 't help with them not killing themselves .	0
+We worked closely with the spokesperson, Mrs Sbarbati, and we are grateful to her for that.	1
+The housekeeper gave the farmer an apple and wished him a good day.	1
+Mrs Ana de Palacio Vallelersundi has a sister who is a Commissioner in the European Commission.	1
+The designer showed the cook a blueprint and asked him for feedback.	1
+The clerk tried to hide his behavior from the manager but failed to trick him.	1
+No one in this Parliament would understand it if no agreement on this issue was reached at Nice.	0
+The assistant missed the call from the mover and called him back.	1
+The construction worker hammered the nail for the attendant and then demanded him to pay.	1
+I would also like to express my concern about the fact that the various Youth Parliaments have been included in the Socrates programme.	0
+The analyst loved getting haircuts from the hairdresser and went to them often .	0
+The secretary corrected the developer and told him not to worry.	1
+The mover contacted the auditor and asked them about the next inspection .	0
+I would ask the President-in-Office to at least answer our questions in writing if she cannot do so orally.	1
+They are worrying themselves sick .	0
+The analyst met the accountant and recommended them some job positions .	0
+The assistant laughed at the janitor and treated him bad.	1
+Lol that 's my father 's yard , told him it looks like crap but he thinks it 's totally fine , oh well ¯ \ \ \ _ ( ツ ) \ _ / ¯ .	1
+The driver picked up bread from the baker because he was employed as a delivery service.	1
+The nurse saw the physician and asked him to take a look at the patient.	1
+Hence the urgent need for a modern regulation which recognises these new possibilities available to European vine growers and, at the same time, protects traditional varieties of vine.	0
+He will need to learn how to take care of himself .	1
+The counselor warned the developer that she would charge people who break the rules.	1
+However I wasn 't so keen on the scene in the kitchen - it was a bit odd that the character was having a conversation with themselves , and that that was the first time they were questioning things .	0
+We have no right to miss this deadline unless we intend to shatter the expectations of all the citizens and the collective movements they have formed, which are the groups most motivated to establish a European Union which is a community of citizens.	0
+Well , when we came to unwrap the girl herself ...	1
+The baker is afraid of the sheriff because she did something wrong.	1
+His attitude is a reaction to the toxic environment he finds himself in .	1
+So Kylo / Ben basically just gave himself a pass .	1
+Old fool , getting herself in a jam like that .	1
+The construction worker confirmed the accountant could do the work and handed the form to her.	1
+You know I 'm a friend of theirs , so don 't push me around .	0
+The mover yelled at the baker and asked them to leave .	0
+The mechanic called the nurse and asked them how to deal with the broken leg .	0
+The chief asked the editor to redo the documents because he was not satisfied.	1
+The lawyer called the accountant to consult them about the book .	0
+The secretary asked the salesperson to leave and told them never come back .	0
+This is also recognised in our regional policy, which Commissioner Barnier has referred to.	0
+The BMW driver was negligent , but OP intentionally allowed himself to be hit .	1
+The analyst asked the secretary to book a flight and thank her for the help.	1
+The receptionist was tired of getting bad reports from the analyst and told him to leave.	1
+The driver asked the writer to help with a poem because he had never written anything in his life.	1
+The secretary texted the cook what he needed to prepare for the boss.	1
+The librarian walked towards the construction worker and asked them to stop making noise .	0
+Madam President, even though the spokesperson has stated modestly that the report could have been better, I would still like to offer her my compliments.	1
+The assistant called the physician and asked him for money.	1
+Lol that 's my father 's yard , told them it looks like crap but they think it 's totally fine , oh well ¯ \ \ \ _ ( ツ ) \ _ / ¯ .	0
+The writer wrote a book about the carpenter because his story is very moving.	1
+I am aware that the Commissioner is here, and I hope she takes note of all the points made.	1
+The counselor needed a ride from the driver and called him to schedule a morning pick up.	1
+Madam President, I should like to underline what my colleague Mrs Hernández Mollar has just said.	1
+The secretary never saw the guard and did not want his job.	1
+The salesperson talked to the housekeeper for a while and convinced them to buy the product .	0
+The housekeeper always forgot to sweep until the CEO said so and appreciated his comments.	1
+The counselor questioned the farmer's sanity and forced him to take a test.	1
+As referred to by the rapporteur in her report, little progress has been made so far on the activities to replace the present VAT transitional regulation by a final regulation based on tax in the country of origin.	1
+Where 's herself ?	1
+Missouri , go back in and tell her to take care of that herself .	1
+The clerk asked the mover to help carry the desk and thanked him.	1
+They dominated the golden age of LHW and beat the HW champ twice , while also giving said HW champ a platform to build themselves as a worthy challenger to the throne .	0
+The cleaner begged the mover for help moving the desk and offered him a trade.	1
+However I wasn 't so keen on the scene in the kitchen - it was a bit odd that the character was having a conversation with himself , and that that was the first time he was questioning things .	1
+It is imperative that we safeguard the health, safety and confidence of patients, users and third parties and set conditions on placing such products on the market.	0
+The supervisor hit the cashier and then issued her an apology.	1
+Yeah but they are really leaning into it despite trying to brand themselves as progressive lite .	0
+And you 're going to break hers too .	1
+The guard visited the hairdresser and thanked them .	0
+The accountant never bought anything from the salesperson and hated all his offerings.	1
+When the mover arrived, the attendant lent her enormous truck.	1
+The cook prepared a meal for the tailor and they were very thankful .	0
+The manager likes the designer's product but she refused to allow a purchase.	1
+The teacher and the janitor were chatting about his overwhelming cleaning duties.	1
+Secondly, the issue of the number of Commissioners.	0
+Denying such a detail and letting herself be convicted of murder without protesting .	1
+The physician reminded the accountant that he had an appointment with another patient.	1
+The driver picked up the accountant from the airport because she could not find a bus there.	1
+The cook asked the nurse for help because his mom was sick.	1
+Unless god himself takes down those racks there 's no need for new ones " -kids fuck up- FF - " uh Chief .	1
+One way in which we could address the problem would be to adopt Amendment No 4, tabled by my colleague, Mrs Alavanos, which aims to improve housing and transport.	1
+The construction worker stared at the teacher and asked her to leave.	1
+And you 're going to break theirs too .	0
+The counselor meets the manager regularly and provides their suggestions .	0
+The manager wanted to be cruel to the cashier and suggested she get a new job.	1
+The driver needed the nurse to perform an examination and asked her.	1
+The driver shouted at the hairdresser and asked her to get out of the car.	1
+The lawyer talked the auditor and told her to provide documentation.	1
+The farmer gave the attendant some tips even though he was very poor.	1
+The cashier saw the farmer and asked them to provide a signature .	0
+Did they kill themselves or was it something else .	0
+The janitor asked the hairdresser some questions and let them in .	0
+The mover offered the receptionist a hand and moved their desk .	0
+The driver offered a ride to the teacher and picked them up on time .	0
+Before he allows himself to be destroyed , Uncle Bob says “ I know now why you cry .	1
+The salesperson chatted with the cleaner and persuaded her to buy a vacuum.	1
+The cook tried to avoid seeing the auditor because she would easily find the problems with the kitchen.	1
+The construction worker called the editor and told her the whole story.	1
+The salesperson knows very little about the teacher since he did not visit the school.	1
+The mover hit the tailor because he was careless.	1
+As mine on hers , so hers is set on mine , and this I pray that thou consent to marry us this day .	1
+The CEO bought the accountant a car and gave her the key.	1
+The lawyer contacted the assistant and asked them to book a new appointment .	0
+The manager fired the librarian because he found a better candidate.	1
+The receptionist did a good job for the farmer and earned his trust.	1
+The assistant helps the cook prepare food and learns from him.	1
+The housekeeper demanded a raise from the manager and they complied .	0
+The analyst goes to the tailor because he needs a new suit for his interview.	1
+They were walking down the waterfront , talking to themselves .	0
+The baker was afraid of the analyst's report and dreaded talking to him.	1
+And I 'm warning you now , if you swear on this it is me old woman herself who 'd be looking down on you from heaven and praying the saints to put a curse on you if she hears you swear a lie .	1
+I would say that this is a really trivial issue, a few comments by a politician on a television programme, which have resulted in a criminal action that has no grounds, and which are covered by the Portuguese constitution and by application of Community rules on the waiver of parliamentary immunity.	0
+It was theirs as much as Roberta 's .	0
+Our fellow European citizens expect and are entitled to a vigilant and positive response.	0
+The baker talked to the supervisor and learned a lot from them .	0
+No one must feel as if they are in a carriage being towed along by a kind of runaway train.	0
+The receptionist needed the carpenter to create a chair and asked him.	1
+The developer tried to convince the housekeeper that she needs the software.	1
+I think Ed banged them and that 's how they made themselves feel somewhat better .	0
+The cashier hired the lawyer and gave him all the information.	1
+The receptionist hated the laborer and sabotaged him.	1
+The writer sold a book to the chief and ask him to pay.	1
+The carpenter helped the housekeeper to fix the window as she knew nothing about those tools.	1
+The construction worker knew the nurse was the best and asked her for an examination.	1
+Oh , they can 't help themselves just now , Miss Bea .	0
+The physician examined the baker and prescribed a drug for her.	1
+The cook asked the nurse for help because she was the only one passing by.	1
+Well , if it isn 't the night prowler herself .	1
+Madam President, I wish to begin by congratulating my colleague, Mrs Langen, on her excellent report which, as she says, was carried through the Committee on Industry, External Trade, Research and Energy, unanimously.	1
+The baker gave the bread the chief and received his payment.	1
+The driver smiled at the attendant and asked them when to pick the boss .	0
+This may even be the view of some of our fellow MEPs of the outermost regions.	0
+The janitor asks the receptionist where to go because she knows this building much better.	1
+Now they keep things to themselves .	0
+The counselor was ordered to examine the CEO and proceeded to his home.	1
+The supervisor told the cleaner the good news that her salary was going to be raised.	1
+The developer talked to the cashier and then invited them to a cup of coffee .	0
+The attendant lost the construction worker's car and then apologized to him.	1
+The chief bought bread from the baker and paid her.	1
+The cook visited the writer to learn to write from them .	0
+Mrs Graefe zu Baringdorf, the representative who was ultimately entrusted with responsibility for this report, said that we have long been pressing for this open declaration and that we have redoubled our exhortations on the marketing of compound feed since the BSE episode.	1
+The fingerprints on the gun are theirs , all right .	0
+The accountant called the lawyer to consult them about the book .	0
+The manager talked to the assistant and praised them for the hard work .	0
+Meltzer sells his subscriptions to marks who are anti-WWE , and he is pushing this narrative of Vince being so insane and out of touch that he will re-write the entire script 30 minutes before a show ( all by himself , somehow ) .	1
+The CEO called the hairdresser and paid them over the phone .	0
+Musk has made themselves 100 's of millions of dollars off of Tesla and Solar City , so let 's not pretend it 's all for the greater good .	0
+The laborer envied the receptionist and sabotaged her.	1
+The cashier talked to the developer and then invited them to a cup of coffee .	0
+As a Member who represents Scotland, I feel a particular sadness and concern too about these events.	0
+The nurse thanked the chief and handed them a present .	0
+If it was a 100 % -realistic " Sports-Drama " but it had been advertised as an " Action Movie " than I would have been disappointed Ebert himself said that , " [ Often people will be hesitant to see a movie , if I give it a perfect or almost perfect score , because they 'll think oh it 's boring to watch. and he can feed himself .	1
+The developer complained about the nurse because he received bad service.	1
+The driver gave the housekeeper a car and told her where to go.	1
+The physician called the secretary and asked them to cancel an appointment .	0
+The cook dislikes the cleaner because they broke the stove .	0
+Our citizens, not to mention this House, have had enough of this policy of merely paying lip service.	0
+Last year when we were discussing the budget, we had politicians in the Member State governments who were posturing on the issue of renewable energy, whilst at the same time proposing major cuts to the Save programme in this Parliament.	0
+The sheriff told the counselor that he would arrive in the afternoon.	1
+The CEO was ordered by the court to be examined by the counselor and freely submitted to her examination.	1
+I still remember well the pitying smiles of those delegates who favoured an ambitious agenda for the Intergovernmental Conference, when I suggested to them back in February this year that we could count ourselves lucky if it proved possible to find a solution to the famous Amsterdam leftovers.	0
+The supervisor noticed the hairdresser's long hair and told her to get a haircut.	1
+The cleaner hated the developer and refused to clean his room.	1
+No-one would hold up the existing structure of the Treaties as a model of their kind and it must be in the interests of the politician, administrator, businessman and citizen to simplify their structure.	0
+We must contact the Commissioner, Mrs Nielson, urging her to go to Chechnya in the near future.	1
+The editor stopped the janitor and showed them newspapers every day .	0
+The salesperson noticed the accountant never bought anything and then hated her.	1
+The lawyer thanked the nurse for her meticulous concern.	1
+The cleaner contacted the carpenter and asked them to fix a wood cabinet .	0
+She says it 's not my fault , it 's hers .	1
+Madam President, may I thank the Commissioner for her answer.	1
+The nurse took care of the CEO and gave him some health suggestions.	1
+The designer argued with the analyst and splashed him.	1
+The physician called the clerk and asked them about the product .	0
+Yet, as politicians allocating finite resources, we must ask these questions.	0
+The teacher thanked the driver for the ride and promised them to pay later .	0
+The way I hope it goes down is , The blade has some way of sensing someone 's fears or doubts , and senses Fjords doubt in themselves and their doubt of being able to break the chains that bind them and Ukatoa together .	0
+Food safety is a fundamental requirement for consumers, because they want to eat healthily, and we have to ensure that this is possible.	0
+The teacher explained the situation to the chief and felt understood by them .	0
+The laborer raced against the hairdresser and outran her.	1
+The nurse examined the laborer and call him an ambulance.	1
+I think knowing that God the father was going to turn away from themselves when they had never been separated would stop them from noticing except maybe in passive way the workmanship of the cross .	0
+I also believe in involving the NGOs, mainstream society and the citizens of those countries.	0
+The mover is waiting for the nurse because she can clean the wounds.	1
+The tailor visited the chief and helped them to adjust the pants .	0
+I am sure that Mrs Solbes, the Commissioner responsible for this matter, will come to the details and I will transmit your message next Wednesday.	1
+The designer collaborated with the carpenter and gave him a blueprint.	1
+The janitor followed the cashier and found out that they stole some money from the store .	0
+The salesperson noticed the baker's disgusting kitchen and told her to stop selling bread.	1
+He owes his billions by underpaying his workers , denying them good affordable insurance , closing underperforming stores due to the failures of upper management ( yet the rank-and-file suffer the most by losing their jobs ) to protect their profits , and of course divvying up said profits to himself and the rest of the shareholders , instead of giving it back to the workers who MADE HIM is billions using their own labour-power .	1
+The sheriff gave the secretary no more chances and arrested her.	1
+The librarian hid the book from the supervisor and told him to look somewhere else.	1
+The designer called the farmer and asked him a few questions.	1
+The manager gave the attendant tips and asked her to bring some cookies.	1
+The clerk made eye contact with the lawyer and smiled at them .	0
+The designer hated the CEO and ignored him.	1
+I congratulate my colleague Mary Honeyball on her first report for the European Parliament.	1
+Meltzer sells their subscriptions to marks who are anti-WWE , and they are pushing this narrative of Vince being so insane and out of touch that they will re-write the entire script 30 minutes before a show ( all by themselves , somehow ) .	0
+She was walking down the waterfront , talking to herself .	1
+They like Trump and Trump likes them , they are buds , most of the call transcript was congratulations .	0
+The manager fired the librarian because she always complained about her work.	1
+The cook called the accountant and explained to them the financial situation .	0
+The librarian loved to share books with the cook but stopped when he started stealing.	1
+The janitor does not like the baker because he needs to help clean the messy machine every day.	1
+Ms Paulsen's report endorses these main principles of the Commission proposal.	1
+The developer hated the cleaner and reported her to the manager.	1
+Deku comes off as whiny and weak because he never actually accomplishes much or does things for himself .	1
+The librarian greeted the mover and reminded them to be careful with books .	0
+It appears to me that cooperation between Slavonic Macedonians and especially Albanian-speaking Macedonians is an extremely important topic which could manifest itself in the fight over the important initiative to establish a university in Tetovo.	0
+The sheriff protected the writer and gave her a gun.	1
+You know , sometimes your little girl gets awful lonesome here all by herself .	1
+The baker sold bread to the CEO and enjoyed his visits.	1
+The designer noticed the laborer and greeted them enthusiastically .	0
+The analyst met the attendant and thanked them for the service .	0
+The analyst gave the assistant some documents and asked her to do the scanning.	1
+It 's like those two are laughing about something they don 't quite understand but they want to fit in and makes themselves laugh along with them .	0
+The sheriff protected the tailor in the accident and he received an award for that.	1
+The current desire to extend qualified majority voting will not bring Europe closer to the citizens.	0
+Only the Belgian President, Mrs Verhofstadt, was a notable exception.	1
+The teacher spoke to the carpenter and asked them to fix a chair .	0
+All the more reason why I am delighted to see you here today.	0
+The secretary hated the developer and was rude to him.	1
+I didnt know they had depression and stabbed themselves in the back .	0
+The farmer noticed the receptionist was tall and afterwards trusted her.	1
+They intimidated and got the job done , but they made themselves into an idiot douchebag the second they let those kids ' words dictate their violence .	0
+Last Saturday, the physician called the tailor to discuss her abnormal immune system.	1
+The chief notified the assistant and asked them to take note .	0
+The carpenter shouted at the secretary and drove them away .	0
+The Member in question, that is yours truly, did attempt to approach the Commission, which informally provided her with information regarding a situation which could be described as a deadlock.	1
+The librarian wore silly hats in front of the driver and refused his requests to take them off.	1
+The mover hit the tailor because she stood in the path.	1
+The cashier complained about something to the chief but they were not listening .	0
+The physician called the assistant and asked her for help.	1
+The cleaner waved at the sheriff and walked towards them .	0
+The mover refused to obey the designer because she gave no evidence that the pedestal could support the artworks weight.	1
+Since the Commissioner doubts whether sufficient progress has been made in respect of information and preparation, I would also like to ask whether she has any statistics on what percentage of the changeover has been completed in SME in the different countries, and I would especially like to ask if she has any details on Greece.	1
+The chief refused to help the attendant with the car because that was not his job.	1
+As mine on theirs , so theirs is set on mine , and this I pray that thou consent to marry us this day .	0
+The editor called the construction worker and asked him what happened.	1
+If Parliament is ever to establish a reputation for transparency, a statute for our own assistants is indispensable.	0
+Then got signed by us and shat themselves publicly .	0
+The cleaner understood the farmer and sent them some money .	0
+The laborer wanted to help the assistant and dug her a hole.	1
+The janitor asks the receptionist where to go because this is his first day here.	1
+The lawyer thanked the nurse for taking good care of him.	1
+You don 't seem to realize , my dear Julia , that if Miss Benton continues to hide themselves we 'll simply have to abandon the Oatina program .	0
+The Secretary-General of the league, Khemaïs Ksila, who has already spent two years in prison, has been sentenced to a heavy fine which she cannot afford to pay and therefore risks another spell in prison.	1
+The teacher met up with the supervisor and told them the concerns .	0
+The mechanic hired the assistant and gave her an orientation.	1
+I think it looks cool and the design has gone beyond its most popular usage but just holding them to the high standard they are setting .	0
+The construction worker handed the paperwork to the clerk and asked them to process the application .	0
+There are no better guardians of the Treaties than the European citizens.	0
+I should like to begin by congratulating our colleague, the general rapporteur Jutta Haug, on the way in which she has done her job, which has contributed immensely to the constructive atmosphere in which our work has been carried out in committee and in Parliament in general.	1
+The construction worker needs the assistant because she can make everything happen.	1
+She expected him to do everything whilst she barely worked , she would then expect him to come home make dinner etc , she would often refuse to have sex so he assumed she was having an affair .	1
+The farmer confronted the auditor and asked her to leave.	1
+Even if a few passports have been returned, even if President Ben Ali delivered a speech on the freedom of the press and improved prison conditions on the anniversary of her taking power, there has been a marked deterioration in the civil rights situation in Tunisia.	1
+The twin-track strategy proposed by our colleague, Mrs Oostlander, offers a way out, for which I thank her.	1
+It also affirms that real democracy requires all citizens to participate and be represented equally in the economy, decision making and social, cultural and civil life.	0
+The cleaner asked the lawyer some questions and then expressed admiration for them .	0
+The mover greeted the librarian and asked them where the books were .	0
+Madam President, I would firstly like to thank the deputy for her efforts and praise the important work of the institutions in their approach to animal health which also, of course, facilitates the protection of human health.	1
+The developer likes to have a coffee with the writer and discuss with her.	1
+As everyone stated this is not your friend , he feels bad about himself so he is taking it out on you aka projection.	1
+The supervisor lied to the clerk and gave her incorrect information.	1
+The construction worker needs the assistant to remind him about his daily schedule.	1
+( Well , if you count the muffins they make when they want me to get up and check their food dish , that 's cute , but I can never get a photo of them doing that .	0
+He himself most likely knows that he isn 't a finisher .	1
+Well , if it isn 't the night prowler themselves .	0
+The assistant bought a computer from the salesperson and asked him how to use it.	1
+The CEO called the teacher to talk about her classrooms disorder.	1
+The lawyer offered a free legal advice to the attendant, which she was in dire need of.	1
+The housekeeper troubles the physician a lot because he knows about medicine.	1
+The chief noticed the hairdresser was acting strangely and interrogated her.	1
+She needs to receive care and be released immediately.	1
+It is a real shame that the US butted heads with them , and that the Soviets ousted them .	0
+Supported their folks pretty near five years on that gun of theirs .	0
+When you 're done with theirs , start on mine .	0
+The tailor saw the mechanic and explained to them the price .	0
+The physician examined the librarian for eye problems because he had the correct equipment.	1
+The librarian waved at the mechanic and walked away from them .	0
+During lunch, the janitor looked for the attendant to listen to his story about the bathroom.	1
+This is the principle, with which economists are familiar, of focusing an instrument on a single objective.	0
+It seems to me that the Commissioner must show the industry that she is doing all she can in this context to deal with this external threat to our industry.	1
+The lawyer met with the secretary and asked them to prepare the documents .	0
+The tailor is the lawyer's good friend because she can make well-fitting suits.	1
+The laborer kicked the cashier and refused to apologize to her.	1
+Don & # 39 ; t flatter them too sweetly , child , they think overmuch of themselves already .	0
+The hairdresser hated the supervisor's hair and never complimented him.	1
+The lawyer called the teacher to ask them the performance of the kid .	0
+The secretary shouted at the carpenter and drove them away .	0
+Is there a speaker to support this request?	0
+The janitor was friendly with the cleaner and liked her.	1
+The attendant brought some cookies to the manager and told him to choose one.	1
+The librarian gave some books to the salesperson and asked him to read.	1
+Decision-makers within the governments of the larger Member States should remember that seeking the approval of the citizens in a referendum is not a mere technicality or a rubber-stamp operation.	0
+She says hers has gone into her bones and rain makes it worse .	1
+The lawyer refused to help the editor as he was too busy.	1
+The mechanic charged the auditor one hundred dollars and helped her fixed the machine.	1
+If a woman throws themselves out the window , or a fellow blows their brains out , like that bank director , blackmail letters aren 't of much use .	0
+I am sure we are all agreed that Croatia must be given political assistance, but political assistance also entails financial support, because political stability is always a prerequisite to social and economic stability.	0
+I know he has a long way to go but Rodrygo reminds me a lot of Mbappe when he started making a name for himself .	1
+The mechanic looked down on the cashier and made inappropriate comments about her.	1
+The physician talked with the attendant and was surprised about their knowledge .	0
+The analyst was tired of getting bad reports from the receptionist and told her to leave.	1
+Secondly, the President of La Poste, Mrs Claude Bourmaud, recently explained how the coming decade will herald the most profound transformation ever for postal services around the world.	1
+The clerk gave the mechanic a present and wished him happy birthday.	1
+The attendant talked to the mechanic and asked them to fix the car .	0
+The mover judged the cleaner to be weak and moved her desk.	1
+Supported her folks pretty near five years on that gun of hers .	1
+The carpenter owed the counselor some money and had to make furniture for them .	0
+Frank introducing himself as Ongo is one of the few things that causes me to laugh until I can 't breathe guaranteed .	1
+The librarian stared at the CEO and asked him to leave.	1
+They are only themselves to blame .	0
+The physician saw the auditor and examined her for sores.	1
+The secretary took down the farmer's petition and then she submitted it to her superiors.	1
+Sue can take care of themselves .	0
+The rapporteur has researched this area very thoroughly and made an excellent report even if I might not agree with all of it, and she pointed out that it seems we did not do so well in the past.	1
+The mover is waiting for the nurse because he broke his arm.	1
+It was a joke about how Pep hates Spain and considers themselves catatonian .	0
+The CEO received a new suit from the tailor and then proceeded to pay them .	0
+The UN system should be very pleased to have attracted as outstanding a candidate as Mrs Lubbers and I am sure she will do very distinguished service for the UNHCR and for the whole UN system.	1
+The land was hers by right of claim .	1
+The salesperson talked to the hairdresser and tried to sell something to them .	0
+The CEO called the teacher to talk about his son's performance.	1
+Missouri , go back in and tell them to take care of that themselves .	0
+Now , if Simmons himself would rather work out than play for the NT , it ' s a whole different story .	1
+The chief visited the tailor and helped them to prepare the dinner .	0
+The mover saw how weak the clerk was and moved the desk for her.	1
+The janitor talked to the auditor because she seemed to be looking for something in the broom room.	1
+As everyone stated this is not your friend , they feel bad about themselves so they are taking it out on you aka projection.	0
+Yeah , I suppose our place will look like a dump after seeing that place of hers .	1
+The manager talked to the auditor and told her to stay late.	1
+The one who might kill themselves .	0
+The assistant hired the driver as he offered an excellent service.	1
+A prime responsibility of any elected parliament is to protect the interests of the individual citizens against the executive.	0
+I also thank my colleague, Mrs Cashman, for accepting my amendments on the action programme which will guarantee European money to cover the extra cost of disability.	1
+The hairdresser hates the mechanic after they refused to help with fixing the car .	0
+I accuse Elizabeth of treachery and plotting against my life not I against theirs .	0
+The janitor gave the clerk some documents which included his personal information.	1
+I am not so surprised, but some of you will say that a Christian Democrat who does not believe in miracles is not a good Christian Democrat.	0
+There is no worse scum on this earth than a trump supporter Bin Laden had a more restrictive code of ethics for himself than you do .	1
+Thorn : The stunner botch I guess haha , however Shane did redeem himself at the end. the more he seems to entrench himself in what he knows instead of opening himself uo to them .	1
+Despite so often being branded as a "little Englander" by my British colleagues, I have no difficulty in acknowledging that germs know no boundaries.	0
+Firstly, the chief executive of the UK post office, Mrs John Roberts, has talked about competition leading to improvements in quality and efficiency and lower prices.	1
+The carpenter showed the nurse the injury and told her what happened.	1
+The tailor talked with the supervisor and was impressed by their hard work .	0
+It is the duty of the President of the sitting to guide and interpret the questions and it is then at the discretion of the President-in-Office of the Council how to discuss or respond to them, except where the questions are nonsensical or have nothing to do with the subject.	0
+It was not the farmers and the poor in the Mediterranean who decided and went ahead with the NATO bombings, but it is they who are paying for the damage.	0
+The baker charged the farmer more money and did not want to give them more bread .	0
+The editor greeted the farmer and asked them for the time .	0
+Elsewhere, the rapporteur repeats the new theory in vogue in Brussels of the supposed dual legitimacy of the European Union: that of the citizens represented by the European Parliament and that of the States represented by the Council.	0
+The janitor stopped the editor and showed them how to clean the floor .	0
+Always thought of me first , never of themselves .	0
+Always thought of me first , never of herself .	1
+The carpenter spoke to the teacher and asked them science questions .	0
+Madam President, our group also supports the representative and thanks her for his good work.	1
+The laborer asked the accountant to join the meeting but they forgot .	0
+The auditor caught the developer cheating and reported him.	1
+The mover missed the call from the assistant and called her back.	1
+She 's daubing herself with lipstick and getting most of it on her nightgown .	1
+But they lifted it like some mad man and removed themselves afterward I 'll paste the excerpt of that below .	0
+As we have feared and supposed since the start, according to the technicians, the significance of the damage is increasing daily with the passage of time.	0
+I would also support the representative when she explains the need to make sure that the right to an affordable filtering system is guaranteed.	1
+I should 've smoked them in 'nam .	0
+I am supposed to be speaking on behalf of the Council, the Council being the body uniting the ministers of the 15 European Union Member States.	0
+The empty bottle of brandy and they themselves in a half-unconscious state .	0
+The construction worker needed to talk to the housekeeper and waved her in.	1
+Just followed him on Instagram , with 75k followers I think stopping for dog selfies is great PR for UPS .	1
+The teacher and the janitor were chatting about her disorderly students.	1
+The analyst asked the counselor about his recent nightmares.	1
+The carpenter made a desk for the clerk and gave her a discount.	1
+I am told she is due to be deported to Russia.	1
+The analyst goes to the tailor because everyone knows that she makes the best clothes.	1
+The supervisor told the cleaner the good news that he was going to raise the salary.	1
+The designer called the janitor and asked him to clean the room.	1
+A fighter that had a propensity to gain fat but forced themselves into fight shape was Roberto Durran .	0
+The supervisor splashed the editor and yelled at her.	1
+Musk has made himself 100 's of millions of dollars off of Tesla and Solar City , so let 's not pretend it 's all for the greater good .	1
+The CEO liked the bread from the baker and bought from her regularly.	1
+The salesperson knows very little about the teacher since she does not teach in that school.	1
+The baker is afraid of the sheriff because he looks very serious.	1
+Little Mary 's doing all right for herself .	1
+The CEO enjoyed telling the housekeeper what to do and told her to sweep up.	1
+I accuse Elizabeth of treachery and plotting against my life not I against hers .	1
+No hed be too tired to say anything we need him jacked on bang energy .	1
+The chief explained the situation to the teacher and felt understood by them .	0
+Yeah but he 's really leaning into it despite trying to brand himself as progressive lite .	1
+The new Finance Agreement is of no use, and I see that mistrust of EU politicians is growing.	0
+The janitor cleaned the room for the designer and asked her for tips.	1
+The secretary went to a meeting with the construction worker and asked him a few questions.	1
+She 's only herself to blame .	1
+There are poor people in Europe too, even if only retired farm workers.	0
+The chief complained about something to the cashier but they were not listening .	0
+A number of Members of Parliament have had a fantastic dream, this I can understand.	0
+The hairdresser outran the mover and laughed at him.	1
+The farmer greeted the editor and asked them for the time .	0
+The cleaner liked to spy on the CEO and listened to his conversations.	1
+The CEO was ignored by the designer and so rejected her proposal.	1
+The cook served food to the editor and left them satisfied .	0
+Just followed them on Instagram , with 75k followers I think stopping for dog selfies is great PR for UPS .	0
+The writer visited the mechanic and recommended them some books .	0
+The clerk needed to satisfy the CEO and produced a report for him.	1
+Madam President, may I begin by thanking the rapporteur, Mrs Skinner, for the excellent work she has done in drafting this report.	1
+She 's worrying herself sick .	1
+There are 300 000 refugees, probably 10 000 killed and tens of thousands wounded.	0
+This is certain, but if each and every one of us is honest, we have to admit that in our public life we have often found ourselves defending state aid when an undertaking has required it in order to establish itself, for example, in our constituency, or in order to prevent it from closing.	0
+The auditor bought the guard a gift and wished him a nice holiday.	1
+She then died a true death , and the curse that had lain upon herself and her victims was broken .	1
+The accountant sent documents to the CEO and asked him to sign.	1
+The driver picked up bread from the baker because she was too frail.	1
+If they were " literally " by themselves , they would have killed the first two and the hanzo and then taken enough damage to die before getting any other kills .	0
+The assistant contacted the lawyer and retained them .	0
+The analyst chatted with the writer and expressed interest in their work .	0
+The developer built a website for the tailor and charged her one thousand dollars.	1
+Fanny said yes to me themselves .	0
+And, on one occasion, General Pinochet decided to come to Europe and, as soon as she set foot here, the European police forces set out to ensure that General Pinochet took responsibility for her actions.	1
+Because they don 't know everything themselves .	0
+The physician examined the hairdresser for cuts because he was concerned.	1
+The receptionist told the cook the date of the ceremony and reminded them to wear suits .	0
+The construction worker offered to build the tailor a house and then hugged her.	1
+The salesperson tried to fool the writer and sold her some garbage.	1
+The way I hope it goes down is , The blade has some way of sensing someone 's fears or doubts , and senses Fjords doubt in himself and his doubt of being able to break the chains that bind him and Ukatoa together .	1
+The mechanic hates the hairdresser after they finished the ugly haircut .	0
+And make sure you circle them in a crescent not packed together .	0
+The hairdresser cut the cook's hair and asked him for tips.	1
+They bought themselves some dynamite in a hardware store .	0
+The developer traded services with the baker because he did not own a kitchen.	1
+The writer met the guard and signed an autograph for them .	0
+The accountant met the janitor and wished them well .	0
+The mechanic talked with the counselor for such a long time because he knew little about the legal affairs.	1
+The janitor swept up the tailor's mess because she asked nicely.	1
+The tailor made a sweater for the developer and charged him one thousand dollars.	1
+The teacher called the lawyer to tell them the performance of the kid .	0
+Oh , she can 't help herself just now , Miss Bea .	1
+The accountant met the analyst and recommended them some job positions .	0
+Yet , it was that manner of hers that ...	1
+The developer walked towards the accountant and gave them a cup of coffee .	0
+Smith could therefore be a sort of late starting , stunted version of Orwell himself ; whereas Orwell came to a political ideology early and with effort , Smith came to it after a long time and with the book .	1
+The writer never met the construction worker and did not want to meet him.	1
+Previous speakers have spoken well of the Charter because it is a good Charter which brings together the classic rights of the nineteenth Century and the modern rights of the twenty-first century.	0
+The guard noted the cashier being careless and asked them to be careful .	0
+The analyst employed the housekeeper because he could not stand housework.	1
+The construction worker scheduled an appointment with the counselor and asked her for advice.	1
+The chief employed the receptionist because she can help to answer and record the phone orders.	1
+The developer visited the hairdresser and congratulated her for opening a new salon.	1
+Commissioner, I would like to start by congratulating the rapporteur.	0
+The farmer gave the housekeeper an apple and wished her a good day.	1
+The salesperson talked to the receptionist and convinced them to buy the insurance .	0
+The guard helped the assistant and told them to be careful next time .	0
+I know that our Ambassador in Washington, Gunter Burghardt, has already spoken about this, and I should be delighted if her interesting proposals were actually incorporated into the communication.	1
+The designer gave the guard a hat and then stole his gun.	1
+( Well , if you count the muffins he makes when he wants me to get up and check his food dish , that 's cute , but I can never get a photo of him doing that .	1
+The attendant could not understand the CEO and asked him the question again.	1
+The hairdresser broke down in front of the construction worker and begged him to stop.	1
+I would not like the precautionary principle to lead to a repetition of what happened to a friend of mine when she went out with her family and found herself the middle of a scandal.	1
+The lawyer heard the arguments from the counselor and contested their account of the events .	0
+I 'll bet you Cuba 'll never be able to govern themselves .	0
+The janitor talked to the auditor because he did not know which room he needed to clean up.	1
+The manager chatted with the receptionist and praised them for their outstanding work .	0
+The secretary called the physician and told them about a new patient .	0
+The editor met the mover and talked to them about relocation .	0
+The supervisor talked with the tailor and was impressed by their talent .	0
+The mechanic gave the clerk a present and wished her happy birthday.	1
+The guard saved the editor from the protestors and drove her home.	1
+So Kylo / Ben basically just gave themselves a pass .	0
+Just don 't push it anymore he has to figure it out himself now and it 's no longer your concern .	1
+The carpenter made a wood lion for the accountant and asked her to pay.	1
+The laborer visited the counselor and ask them for help .	0
+That 's theirs .	0
+The counselor asked the guard a few questions and praised them for the good work .	0
+The mechanic talked with the counselor for such a long time because she could not understand those engineering terms easily.	1
+The salesperson smiled at the nurse and thanked them for buying the insurance .	0
+Madam President, the delegate, Mrs Maij-Weggen, makes crystal-clear what the real political problems are in Indonesia.	1
+The laborer called the nurse and asked her to help.	1
+The editor contacted the physician and asked them for health advice .	0
+The Queen disports herself with a Spaniard !	1
+The chief praised the accountant and offered her a promotion.	1
+The designer contacted the chief and asked them for requirements for the new logo .	0
+I heard, and it is not an isolated incident, the United Kingdom Minister for Social Welfare say on television that if she could stop fraud she could save GBP 6 billion.	1
+The sheriff thought the cashier took the money and questioned her.	1
+It is a real shame that the US butted heads with him , and that the Soviets ousted him .	1
+Madam President, I would like to thank the Commissioner for coming here today to give us her statement for the meeting which is going to take place next Monday.	1
+The chief was unable to help the clerk and then cried for her.	1
+Now , if Simmons themselves would rather work out than play for the NT , it ' s a whole different story .	0
+The cook tried to avoid seeing the auditor because he knew the problems in the kitchen were easy to find.	1
+The election is without a doubt a sign of hope to all democrats, but at the same time, the issues of future stability push themselves to the fore in Kosovo, Bosnia and Herzegovina, for peace in the Balkans is fragile and we will need, with immediate effect, to have the means at our disposal to secure reconstruction and future stability in a democratic process.	0
+And Clinton did not perjure himself about his relationship with Lewinsky ( Though he certainly lawyered himself through a heck of a loophole ) , because the legal definition set for the deposition was not congruous with a laypersons understanding of " sexual relations " .	1
+The receptionist talked to the salesperson and rejected their suggestion to buy the insurance .	0
+The assistant needed the laborer's help and asked him to a dig a hole.	1
+Parallel to that point of order could it be also borne in mind that the interpreters are very kind to us and sometimes they do not translate "my machine failed to work" as "I failed to vote".	0
+These citizens enjoy a positive and enriching diversity, and they demand to be given the right to enjoy the same opportunities as other citizens from continental regions.	0
+We will make him beautiful and feed him the bread he requires .	1
+The driver brought the designer some ideas which he was very proud of.	1
+Now she keeps things to herself .	1
+Or , if it is so much less effort , then why is a grown ass man complaining about it to anyone and everyone when he can so easily do it himself .	1
+Puigdemont themselves wrote a few times .	0
+One she 'd bought herself ?	1
+The laborer reached the auditor for an inspection but offended her instead.	1
+The auditor talked to the manager and told him to stop complaining.	1
+“ They are talking to themselves , but they like make you feel bad because they mention you in it .	0
+The laborer wanted to take the attendant's job because he was tired of manual labor.	1
+It is the revolt of the Palestinians who live in Israel who are not only demonstrating their solidarity with their brothers but demanding to be treated as citizens with full rights and to be allowed to live free from discrimination in Israel.	0
+Thankfully police picked him up and he is hopefully going to never see the outside .	1
+The manager noticed the teacher performing well and gave her a raise.	1
+I am going to explain to you the factors which Mrs Lienemann would have liked to have presented to you herself if she had not been detained by other work.	1
+Except that Janice seemed to be rather enjoying herself when I came into the kitchen just now .	1
+The carpenter contacted the cleaner and asked them to clean the house .	0
+The chief thanked the housekeeper and gave her some tips.	1
+The supervisor blamed the receptionist for the mistake and fired them .	0
+The farmer's sanity was questioned by the counselor and was forced to take her test.	1
+The janitor cleaned the librarian's room and told her it is ready.	1
+The sheriff waved at the cleaner and walked towards them .	0
+The developer traded services with the baker because she did not own a computer.	1
+Goddamn it i 've never consider that tadano is the one might pull that kind of stunt but , it is biggest possibility considering that he " understanding " guy , oh god i 'm worried that the author might pull this out in such way make tadano sacrificing his feeling and himself thus giving us another blue ball condition .	1
+If this is true and God themselves does not need a designer , then it 's possible for something very complex to exist without a designer .	0
+While they never outright publicly expose themselves as God in plain “ I am God ” , the language they use is what costed them their life on account for blasphemy .	0
+In the first month or so you shouldn 't leave them alone for 8 hours at a time imo .	0
+The Queen disports themselves with a Spaniard !	0
+The mover met the editor and asked them about the magazine business .	0
+The librarian talked to the chief and recommended them a book .	0
+The laborer asked the clerk for a favor but secretly hated her.	1
+The writer went to see the physician and asked them about health issues .	0
+He likes Trump and Trump likes him , they are buds , most of the call transcript was congratulations .	1
+All the police deployed to guard the state television building stormed by the protestors, have laid down their combat weapons and have allied themselves with the demonstrators.	0
+The hairdresser visited the developer and congratulated him for the promotion.	1
+The editor stopped the driver and asked them for a ride .	0
+The supervisor talked to the baker and taught them a lot .	0
+And Clinton did not perjure themselves about their relationship with Lewinsky ( Though they certainly lawyered themselves through a heck of a loophole ) , because the legal definition set for the deposition was not congruous with a laypersons understanding of " sexual relations " .	0
+The laborer noticed the designer and greeted them enthusiastically .	0
+The librarian order a bookshelf from the laborer and he quickly completed the project.	1
+The sheriff protected the tailor in the accident and she is very grateful for that.	1
+The sheriff asked the nurse to go together because he needs help to deal with the accident.	1
+I also wish our Commissioner, Pascal Lamy, every success in her efforts to bring about the settlement of our trade disputes with the United States.	1
+The editor forgot the salesperson's name because there is nothing special about him.	1
+I would like to thank the Commissioner for her response and for her very positive leadership in this crucial area, and I must say that her response has also been reassuring from an economic perspective.	1
+The chief talked to the secretary and showed them thanks .	0
+The chief encouraged the writer and brought her book.	1
+I am positive he didn ' t mean to hurt you and has gone through something awful himself .	1
+I 've never seen a girl unpeel themselves like an onion before .	0
+The secretary met with the lawyer and reminded them to check the email .	0
+Manuela wanted to throw themselves down	0
+The editor told the laborer there was a job opening and invited him to apply.	1
+The physician saw the nurse and called her to do the CPR.	1
+The cook prepared a dish for the teacher and hoped she enjoyed.	1
+The housekeeper saw the construction worker waving and walked to him.	1
+The baker gave the physician a bread and thanked him for the help.	1
+My uncle is also a Navy Vet , and until he moved into a facility himself , I was the one that took him to all his VA appointments .	1
+The teacher performed well for the manager and asked him for a raise.	1
+To call them on this and forget for one second how Trump simply makes things up about themselves every single day to make themselves look good is really fucked up .	0
+The developer corrected the secretary and told her not to worry.	1
+The sheriff asked the librarian for help as she was much more familiar with the library.	1
+The accountant walked towards the developer and gave them a cup of coffee .	0
+But he lifted it like some mad man and removed himself afterward I 'll paste the excerpt of that below .	1
+At the same time we would easily destroy the belief the entrepreneur and the man in the street have in the common sense of EU decision-makers.	0
+I would particularly emphasise that we must accept responsibility for the fate of everyone in the country, including more than 500 000 refugees in the Federal Republic of Yugoslavia.	0
+The guard called the cleaner and asked her to open the door.	1
+It is not acceptable for these interests only to be the subject of exchanges between governments and officials, with academics and journalists generously being allowed to participate.	0
+The cashier called the driver and asked them for a ride .	0
+The attendant recognized the developer because he is very famous.	1
+The European Union and you, Commissioner, need to be aware that this treatment is worth sustaining.	0
+The fingerprints on the gun are hers , all right .	1
+The farmer explained the business to the clerk and told them about some common troubles .	0
+The clerk misled the supervisor and gave him incorrect information.	1
+There are three regions in Europe whose citizens face specific problems: mountain, island and the outermost regions.	0
+That 's hers .	1
+The cook walked towards the counselor and asked them some questions .	0
+The housekeeper showed the janitor the direction and led them to the kitchen .	0
+Well , if they smile by somebody I know ... they 'll have to buy themselves a new set of teeth .	0
+The mover helped the writer to pack up because she had so many things in the room.	1
+Well , if it isn 't the Duchess herself ?	1
+The receptionist spoke with the CEO and asked him for a promotion.	1
+I should 've smoked him in 'nam .	1
+The baroness seems to amuse themselves .	0
+The receptionist recognized the driver and led them to the ceremony .	0
+Even when this is relaxed, as we hope it soon will be, she will be far from free as we are now wearily familiar with the array of wholly unjustified restrictions on her freedom of movement.	1
+A fighter that had a propensity to gain fat but forced himself into fight shape was Roberto Durran .	1
+I think knowing that God the father was going to turn away from himself when they had never been separated would stop him from noticing except maybe in passive way the workmanship of the cross .	1
+Mrs Blair returned to Great Britain as a conquering hero because she had not surrendered this, had not surrendered that and had fought for Britain's interests.	1
+The writer retained the lawyer and then explained to them the situation .	0
+The cook asked the attendant to try the cake because he had no other friends.	1
+I didnt know he had depression and stabbed himself in the back .	1
+My compatriots voted for the single currency in 1992 because they had been told that this could work without a super-state.	0
+We need more entrepreneurs in Europe, who, in their turn, will create more jobs.	0
+Madam President-in-Office of the Council, we in Parliament have tried in vain to urge Mrs Nielson, the Commissioner responsible for humanitarian matters, to visit Chechnya, not just for the sake of an official visit but to carry out a serious survey of the humanitarian situation.	1
+I am sure that the Albanian political prisoners will also be released soon.	0
+In this model, respect for standards and procedures is guaranteed by an independent authority and final jurisdiction lies with the judges.	0
+They are daubing themselves with lipstick and getting most of it on their nightgown .	0
+The manager offered a raise the housekeeper and they gladly accepted it .	0
+The lawyer made eye contact with the clerk and smiled at them .	0
+The secretary walked towards the mechanic and told them what was the problem with the machine .	0
+They say it 's not my fault , it 's theirs .	0
+The driver was mean to the cleaner and complained about their service .	0
+As a Frenchwoman, I am only glad that I have no part in the dismantling of that reassuring and life-affirming network of 17 000 post offices and sub-post offices, knitted together over 550 000 km2 of our territory and embodying public service for our citizens, in both suburban and rural areas.	1
+The cook met the clerk and asked them for assistance on paperwork .	0
+While he never outright publicly exposes himself as God in plain “ I am God ” , the language he uses is what costed him his life on account for blasphemy .	1
+The driver hit the clerk and refused to say sorry to her.	1
+The mechanic walked towards the secretary and asked them where the machine was .	0
+I will end with the questions asked by virtually all the speakers concerning the binding nature of the Charter, and am anxious to make myself clearly understood on this matter.	0
+The baker liked the construction worker and tried to sell him bread at a discount.	1
+The cashier owed the physician money and refused to pay him back.	1
+Smith could therefore be a sort of late starting , stunted version of Orwell themselves ; whereas Orwell came to a political ideology early and with effort , Smith came to it after a long time and with the book .	0
+The editor called the mechanic and told him to read the latest newspaper.	1
+Are you a friend of theirs ?	0
+Yeah , I suppose our place will look like a dump after seeing that place of theirs .	0
+The cashier told the sheriff the money was lost but failed to convince him.	1
+It has a similar reaction to when Johann Schmidt turned himself into Red Skull , except it turns Osborn 's face green and goblin-like .	1
+This is a matter which, strictly speaking, falls largely within the competence of my colleague, Mrs Liikanen.	1
+The attendant recognized the developer because she reads a lot of technical news.	1
+The designer made an appointment with the physician and asked him to prescribe the medicine.	1
+The cleaner met the physician and asked them about medical care .	0
+The supervisor criticized the attendant because she made some mistakes.	1
+The carpenter came to the tailor because she makes the best clothes in this town.	1
+The clerk hindered the chief at every turn and even gossiped about him.	1
+I ' d then call your dad and ask him what the room “ plans ” are , then let him know your very hurt that you feel _ _ _ _ _ _ _ staying in that room is more important to him then his child .	1
+The nurse examined the carpenter and sent him to the hospital.	1
+When the winter comes, the farmer visited the librarian frequently because his work required less attention.	1
+The manager meets the counselor regularly and asks them for suggestions .	0
+I 'll bet you Cuba 'll never be able to govern herself .	1
+The counselor saw the salesperson and advised them to relax .	0
+Whether the film is theirs .	0
+Uhm , Jimbei , Hancock and Crocodile were on Whitebeard ' s side , Blackbeard wasn 't there , Mihawk and Doflamingo were toying around , Kuma wasn 't even themselves and Moriah got beat by Jimbei .	0
+Turning to the first proposal on undesirable substances, I wish to thank the rapporteur, Ms Paulsen, and the draftsman, Ms Auroi, for their very comprehensive report.	1
+There isn 't anything a woman likes as well as talking about herself , especially when there 's so much to tell .	1
+The guard saw the receptionist take the pen and accused her.	1
+I am sure that pensioners and elderly people feel that Europe represents a future of peace, and we therefore support any step, however small, in that direction.	0
+They will need to learn how to take care of themselves .	0
+The Chilean Government guaranteed that in Chile General Pinochet would have a fair trial and General Pinochet has indeed now lost her immunity and the justice system is initiating proceedings against her.	1
+He used to be a beau of hers .	1
+The counselor accused the mover because he destroyed some important documents.	1
+The janitor cleaned for the writer and handed her a note.	1
+The CEO was thankful to the auditor and trusted their good judgment .	0
+You must let me tell her in my own way , in my own time or you may spoil not only your own happiness , but hers .	1
+But , Blackie , with a voice like hers , it ain 't so easy to ...	1
+The developer was rude to the secretary and tripped her.	1
+I saw your attraction to my patient last night , and hers to you .	1
+Credit should go to the rapporteur, in the first instance, and the support she has received in committee.	1
+I think Ed banged her and that 's how he made himself feel somewhat better .	1
+The lawyer accused the baker of negligence and then sued her.	1
+The analyst noticed the teacher was bad at math and made fun of her.	1
+A girl who works 12 to 14 hours a day in an office making rapid-fire decisions isn 't very apt to become unsure of herself just because she left her office .	1
+I conclude by congratulating the deputy, Mrs Dary, on the excellent job she has done.	1
+The manager spoke with the hairdresser and offered her a new job.	1
+The hairdresser raced against the laborer and outran him.	1
+The writer interviewed the manager and asked him a few questions.	1
+The clerk told to the carpenter and asked him to make a desk.	1
+I 'd hate to interfere with that child of hers .	1
+Their life , in exchange for theirs .	0
+The janitor showed the housekeeper the direction and led them to the kitchen .	0
+The librarian satisfied the lawyer's request and handed him a book.	1
+You don 't seem to realize , my dear Julia , that if Miss Benton continues to hide herself we 'll simply have to abandon the Oatina program .	1
+The teacher gave the farmer a book and asked him to read.	1
+She 's helped me a lot , and she 's really great herself .	1
+The housekeeper smiled at the supervisor and handed them a cup of tea .	0
+Firstly, please allow me to congratulate the spokesperson, Mrs Ferber, because her work has been complicated and difficult and she has had to try to find a balance between dramatically differing proposals, positions and points of departure and arrival.	1
+The accountant called the cook and asked them to prepare food for a party .	0
+Madam President, I must first congratulate the general rapporteur, Mrs Haug, on the excellent work that she has done.	1
+I am convinced that Europe will only be social when a social dimension is added to economic policy, competition policy, external policy and the entire enlargement discussion.	0
+They have helped me a lot , and they are really great themselves .	0
+The attendant served the analyst and made them feel welcomed .	0
+I am full of confidence concerning what the Commissioner has said so far and look forward to her winding-up remarks.	1
+Before they allow themselves to be destroyed , Uncle Bob says “ I know now why you cry .	0
+It fills me with confidence that together, we have managed to save our employment initiative for local engagement, which was launched last year, because this is the initiative that supports new employment policy measures at local level, whilst involving all players, NGOs included.	0
+I trust the Commissioner will promise that she will exercise extra vigilance.	1
+I would like to address our colleague and thank her very warmly for the excellent report, which addresses a number of extremely complex issues.	1
+The secretary texted the cook what she thought the boss wanted to eat.	1
+Where are themselves ?	0
+Bloodhound can run faster with his ultimate , Pathfinder can take his team and himself out of it with his zipline , or help himself with his grapple .	1
+The carpenter collaborated with the designer and gave her a prototype.	1
+The librarian talked to the carpenter and asked them to fix the table in the library .	0
+The mover refused to obey the designer because he did not think the pedestal could support the artworks weight.	1
+No one has been able to explain to me yet why things are any different now.	0
+String leaves , twists himself up and parts his hair , and comes back .	1
+The cleaner did favors for the janitor and was liked by him.	1
+The President of Italy addressed this House today and she said that it was not the aim of this Union to negate national values.	1
+The chief called the counselor and told her that she could have the day off.	1
+We can only be transparent and accountable if all the decision-makers are clear about the budget and what lies behind the budget.	0
+The confidence and 'bro ' thing , talking about themselves being so great and everything being so sick .	0
+The carpenter asked the editor if she would take the table tomorrow.	1
+The cashier admired the salesperson and despite feeling tricked, gave him money.	1
+The tailor hired the salesperson and asked them to sell suits for the business .	0
+The chief asked the cleaner to leave immediately after his office was clean.	1
+The analyst noticed the cleaner forgets to pick up papers and reminded her.	1
+I would like to thank the Commissioner for her reply.	1
+And I 'm warning you now , if you swear on this it is me old woman themselves who 'd be looking down on you from heaven and praying the saints to put a curse on you if they hear you swear a lie .	0
+Except that Janice seemed to be rather enjoying themselves when I came into the kitchen just now .	0
+The carpenter tried to prepare for the auditor's visit but he did not have the correct paperwork.	1
+You mean , what they said about themselves was true ?	0
+Thorn : The stunner botch I guess haha , however Shane did redeem themselves at the end. the more they seem to entrench themselves in what they know instead of opening themselves uo to them .	0
+The mechanic visited the writer and helped on fixing their car engine .	0
+The guard tried to be friends with the accountant and bought them a calculator .	0
+We hope that the application of the social agenda will also give citizens the chance to feel part of social Europe and to realise that the European Union intends to take positive action to continue raising standards of living, rather than merely guaranteeing minimum levels.	0
+The cleaner chatted with the salesperson and asked him to deliver a vacuum.	1
+It is not part of my portfolio to deal with energy, and particularly not with nuclear energy, but since Mrs Martin has embarked upon an economic line of reasoning then I wish to make this remark.	1
+Just don 't push it anymore they have to figure it out themselves now and it 's no longer your concern .	0
+The question is what kind of mechanism will protect our citizens most effectively.	0
+I gave Katherine my picture to put in theirs , and they gave me their picture to put in mine , and there it is .	0
+Using trans to escape is like a dps or boop-happy lucio diving into the entire enemy team needlessly then using sound barrier on just himself to escape , completely wasteful of one of the best ults in the game .	1
+The hairdresser always gave treats to the analyst and cut their hair wonderfully .	0
+Sue can take care of herself .	1
+The farmer did not want to talk with the writer because he was busy with irrigation.	1
+The physician went to see the writer and asked them how to write good books .	0
+We also propose that EUR 3 million be set aside, with immediate effect, in order to enlist the services of freelance translators.	0
+The lawyer looked into the illegal accusations against the cashier and helped her win the case.	1
+It was an extremely controversial topic at the time , and if there ' s anything Trump is known for , it ' s inserting themselves in the middle of those situations with equally outlandish views to generate press for themselves .	0
+The only explanation I have for this is that the culprit is always drawn back to the scene of the crime.	0
+Whether the film is hers .	1
+I would also like to thank the Chairman of the Committee on Agriculture and Rural Development, Mrs Graefe zu Baringdorf, for her desire to reach a compromise solution with the Commission.	1
+The analyst argued with the designer and splashed her.	1
+The driver yelled at the tailor and called her a fool.	1
+Minato is not stronger then half of the kyubi just because they can kill themselves and take them out too .	0
+The salesperson paid the tailor and thanked them for a job well done .	0
+I think it looks cool and the design has gone beyond its most popular usage but just holding him to the high standard he 's setting .	1
+The accountant prepared the tax report for the carpenter and asked him to pay.	1
+The counselor disliked the supervisor and wanted to leave their group .	0
+The physician related the concerns to the teacher and scolded her for poorly following instructions.	1
+The accountant accepted the work from the construction worker and took the form from him.	1
+The lawyer was retained by the writer and then they received legal assistance .	0
+The representative, Mrs Gill, has succeeded in bringing together the different opinions in a balanced manner, with an important contribution from Mrs Fraisse and the Committee on Culture, Youth, Education, the Media and Sport.	1
+Strangely, many MEPs and even Prime Minister Blair support a European Constitution.	0
+“ He ' s talking to himself , but he like makes you feel bad because he mentions you in it .	1
+As Chairman of the Committee on Regional Policy, transport and Tourism and as a Greek Member of Parliament, I wish to raise the subject of the sinking of the Express Samina last Tuesday.	0
+Should we do otherwise, then I do not think a Europe of the citizens will be within our reach.	0
+Chief Minister Peter Caruana has wisely asked us to report directly to her.	1
+Like the delegate, I believe that there is a case for doing all these things and for looking at the substances she referred to when they are not in themselves toxic but show increases in the aggregated levels.	1
+The laborer dug a hole for the secretary and demanded her to pay.	1
+The secretary talked to the chief and showed their thanks .	0
+The accountant never liked the supervisor and liked him less after being yelled at.	1
+My wife is beside herself .	1
+The lawyer offered a free legal advice to the attendant, because he liked to help.	1
+The analyst employed the housekeeper because she has good at cleaning.	1
+The counselor provided testimony to the lawyer and asked them to keep it confidential .	0
+I would like to thank the two rapporteurs, Mrs Cashman and Mrs Mann, for the excellent work they have done.	1
+Commissioner Monti, on behalf of the Italian Radicals, I too would like to thank the rapporteurs for the two sound reports they have produced, which commend both your work and the work of the Directorate-General for Competition.	0
+The teacher ordered a dish from the cook and gave him some tips.	1
+The teacher told the guard about the danger and was subsequently protected by him.	1
+The supervisor disliked the counselor and fired them .	0
+The mechanic talked to the attendant and asked them for a refund .	0
+The editor splashed the supervisor and yelled at him.	1
+The clerk works harder than the guard and gets more appreciation than them .	0
+The auditor examined the finance report by the mechanic and helped him identify a few errors.	1
+The editor asked the guard to leave the room and asked him to say nothing.	1
+The counselor accused the mover because some of her valuable collections are gone.	1
+The clerk met the cook and asked them for advice on a recipe .	0
+The sheriff asked the editor to withdraw the story because he could not stand negative press.	1
+The receptionist blamed the supervisor for the mistake but could not express dissatisfaction with them .	0
+The secretary called the mover and asked him to come.	1
+Well , if it isn 't the Duchess themselves ?	0
+It 's like they are angry at themselves for losing a set so now just wants to bury Nish on centre court .	0
+The secretary was shocked at the laborer's behavior and asked him to stop.	1
+The receptionist helped the sheriff and they were very grateful for that .	0
+The farmer gave the teacher a bag of eggs and thanked her.	1
+She bought herself some dynamite in a hardware store .	1
+The cleaner called the guard and asked him to open the door.	1
+In the interests of the citizens of the Union as a whole, it is to be hoped that these criteria will be implemented.	0
+There isn 't anything a woman likes as well as talking about themselves , especially when there 's so much to tell .	0
+The accountant called the chief and thanked him for the offer.	1
+The janitor swept up the tailor's mess because he was told to do so.	1
+Well , when we came to unwrap the girl themselves ...	0
+The hairdresser visited the guard and thanked them .	0
+The farmer enjoyed silent moments with the hairdresser and constantly went to her.	1
+The receptionist stole the pen from the guard and tricked him.	1
+Ultimate confidence in themselves , smart as fuck . ) , so this would mean they are not repeating themselves in the narrative .	0
+The secretary took down the farmer's petition which was the hope to improve his life.	1
+And have they got themselves a nose !	0
+The cashier talked to the construction worker and hoped to have the same salary as them .	0
+The carpenter tried to prepare for the auditor's visit but she demanded too much.	1
+The carpenter asked the editor if he wanted a table.	1
+The carpenter often builds objects for the attendant to get her love.	1
+She might kill herself .	1
+The farmer understood the cleaner and sent them some money .	0
+My wife 's sister called up and told them that a friend of theirs told them that this guy acted as cocky as a bronco .	0
+As draftsman of the opinion of the Committee on Industry, External Trade, Research and Energy, I would like to highlight a few points.	0
+The manager answered a phone call from the writer and asked her not to call again.	1
+The teacher provided requirements to the developer and asked them if those would be possible to implement .	0
+It was a joke about how Pep hates Spain and considers himself catatonian .	1
+The cleaner never picks up the analyst's papers and today asked him if that was acceptable.	1
+Commissioner Byrne, it sounds to me as if we will have fewer and fewer producers but more and more inspectors.	0
+But , Blackie , with a voice like theirs , it ain 't so easy to ...	0
+Madam President, I should like to thank the Commissioner for her answer, and I have a supplementary question.	1
+If this is true and God himself does not need a designer , then it 's possible for something very complex to exist without a designer .	1
+The receptionist helped the construction worker and got a present from them .	0
+That little schnozzle of theirs is the berries , I tell you .	0
+The supervisor smiled at the housekeeper and asked them to prepare some tea .	0
+The janitor cleaned for the secretary and grew to admire her for her beauty.	1
+The nurse performed a bad injection in front of the supervisor and got sent to remedial study by him.	1
+The hairdresser talked to the salesperson and tried to give them a new haircut .	0
+The construction worker broke down in front of the hairdresser and begged her to stop.	1
+The accountant showed the sheriff some documents and wanted to convince them .	0
+There is no worse scum on this earth than a trump supporter Bin Laden had a more restrictive code of ethics for themselves than you do .	0
+The tailor delivered a new suit for the CEO and asked them to wear it .	0
+The designer met the construction worker and explained to them the design .	0
+The clerk helped the construction worker and gave them lots of information .	0
+The housekeeper couldn't understand the laborer and stared at him.	1
+Representatives of the governments, MEPs and national MPs, together with the Commission, reaching an agreement on the Charter of Fundamental Rights of the European Union, in ten months, seemed an impossible objective.	0
+The analyst handed the baker the report and told her it was over.	1
+If anyone needs convincing, just look at the evidence.	0
+My wife is beside themselves .	0
+The mechanic received a gift from the baker because he helped with repairing the oven.	1
+Like others, I also want to express my concern about what is happening and, at the same time, say that, whenever this area is talked about, the impression given is really one of crossing a minefield and of its not taking very much to provoke a reaction, almost no matter what is said.	0
+His life , in exchange for hers .	1
+I am very grateful to you for raising this subject.	0
+The physician contacted the editor and asked them about publishing in a medical journal .	0
+The mover called the secretary and asked her to come.	1
+Unless god themselves takes down those racks there 's no need for new ones " -kids fuck up- FF - " uh Chief .	0
+The nurse smiled at the salesperson and started to take their temperature .	0
+The counselor called the chief and asked him for a permission.	1
+The confidence and 'bro ' thing , talking about himself being so great and everything being so sick .	1
+The CEO contacted the writer and asked for their suggestions about the book .	0
+The developer argued with the designer and slapped her in the face.	1
+The guard bought the auditor a gift and wished her a nice holiday.	1
+I am positive they didn ' t mean to hurt you and have gone through something awful themselves .	0
+The writer tried to fool the salesperson and told him a fake story.	1
+No other country has accepted so many refugees.	0
+You mean , what she said about herself was true ?	1
+The hairdresser shouted at the driver and got out of his car.	1
+Or , if it is so much less effort , then why is a grown ass man complaining about it to anyone and everyone when they can so easily do it themselves .	0
+The supervisor criticized the attendant because he could not tolerate any mistakes.	1
+They might kill themselves .	0
+You know , sometimes your little girl gets awful lonesome here all by themselves .	0
+I now give the floor to the delegate, Mrs De Roo.	1
+Madam President, I would like to thank the Commissioner for her introduction but I am still left with a few questions to ask her.	1
+The physician examined the hairdresser for cuts because she was clumsy with scissors.	1
+The laborer wanted to take the attendant's job because she was not qualified.	1
+I can fully concur with the view taken by my colleague, Mrs Jan Mulder, in this respect.	1
+The supervisor invited the designer to the party and they smiled .	0
+The counselor was unable to help the laborer and asked them to leave .	0
+The attendant was always impressed by the carpenter's gestures and understood his love.	1
+It has a similar reaction to when Johann Schmidt turned themselves into Red Skull , except it turns Osborn 's face green and goblin-like .	0
+They say theirs has gone into their bones and rain makes it worse .	0
+The hairdresser approached the chief and asked him for mercy.	1
+The driver recognized the receptionist and introduced the boss to them .	0
+The secretary came to the analyst's office and helped him to book a flight.	1
+The manager noticed the clerk was slacking off and told her to report to work early.	1
+The nurse noticed the driver limping and examined him.	1
+The accountant asked the manager for help and hoping that he would.	1
+The manager met with the editor and showed them the office .	0
+The cook asked the attendant to try the cake because she had excellent taste.	1
+It is only because I am your friend and theirs that I tell you this .	0
+I would like to commend the delegate on her work.	1
+Your life for theirs .	0
+The supervisor hired the secretary because she can make everything well organized.	1
+The baker handed the lawyer some bread and then asked him to pay.	1
+The physician met the cleaner and asked them to clean the office .	0
+The carpenter taught the craft to the assistant and did not let them to get distracted .	0
+I think that we should all welcome the arrival of this social policy agenda.	0
+The teacher showed the analyst the math exercise and was embarrassed by him.	1
+The hairdresser asked the janitor some questions and gave them a new haircut .	0
+I saw your attraction to my patient last night , and theirs to you .	0
+Using trans to escape is like a dps or boop-happy lucio diving into the entire enemy team needlessly then using sound barrier on just themselves to escape , completely wasteful of one of the best ults in the game .	0
+Mrs. Burns-Norvell , and that dreadful daughter of hers .	1
+In this regard I believe that we have to act as politicians; we cannot expect to be magicians in a situation where there may not be sufficient funds to develop the economies of the countries of Central and Eastern Europe along the lines that the existing Member States would want to see them developed.	0
+The lawyer represented the housekeeper and helped them win the case .	0
+Last Saturday, the physician called the tailor to fix his suit.	1
+The carpenter came to the tailor because he wanted a new suit.	1
+The President-in-Office must know if she met Mrs Maskhadov or not.	1
+They used to be a beau of theirs .	0
+I am pleased that the Greek government has now nullified this exemption.	0
+The attendant talked with the physician and was surprised about their knowledge .	0
+But I could have bet that it would be in reply to a debate initiated by Mrs Lannoye because she is an indefatigable champion of human rights in matters great and small.	1
+It was normal puberty stuff mixed with not showering enough / cleaning himself well .	1
+The chief asked the cleaner to leave immediately after she finished cleaning.	1
+The housekeeper borrowed the wrench from the mechanic and then kissed him.	1
+The chief employed the receptionist because he was too busy to answer those phone calls by himself every day.	1
+We should consider the speech made by Mrs Sadako Ogata, the UN High Commissioner for Refugees, as a challenge; basically what she said was that the long life of the UNHCR reflected the international community's inability to prevent prejudice, persecution, poverty and all the other reasons which result in conflict.	1
+The CEO stared at the librarian and asked her for a dinner.	1
+The receptionist chatted with the manager and thanked them for their help .	0
+The CEO got goods from the cashier and then paid her.	1
+The construction worker helped the receptionist and got a present from them .	0
+The mechanic waved at the librarian and walked away from them .	0
+The carpenter talked to the librarian and asked them to recommend some books to read .	0
+The lawyer needed the librarian to find a book and asked her to.	1
+The clerk freely offered to help the developer with paperwork and he accepted.	1
+The assistant helped the carpenter and learned from them .	0
+The leaders of Europe have not formulated a clear vision.	0
+Frank introducing themselves as Ongo is one of the few things that causes me to laugh until I can 't breathe guaranteed .	0
+The cashier gave back the check to the analyst and asked them to endorse it .	0
+The chief thanked the nurse and handed them a present .	0
+My wife 's sister called up and told her that a friend of hers told her that this guy acted as cocky as a bronco .	1
+The baker argued with the manager and threw him a bread.	1
+They may also fall under the competence of my colleague, Mrs Barnier, who spoke to this Assembly a little while ago.	1
+The humanitarian programme has been extended to include refugees and other people who have been driven out of their homes.	0
+Goddamn it i 've never consider that tadano is the one might pull that kind of stunt but , it is biggest possibility considering that they " understanding " guy , oh god i 'm worried that the author might pull this out in such way make tadano sacrificing their feeling and themselves thus giving us another blue ball condition .	0
+Or what about the kid who grew up internalizing homophobia and needs therapy to get to a point where they accept themselves .	0
+Then got signed by us and shat himself publicly .	1
+The janitor gave the clerk some documents which she required.	1
+The guard competed with the attendant for the same job despite the fact that he did want it.	1
+The farmer screamed at the nurse and asked her for an examination.	1
+The guard met with the writer and asked them for an autograph .	0
+The manager likes the designer's product and he agreed to make a purchase.	1
+The sheriff visited the teacher and asked them some questions .	0
+The assistant talked to the manager and requested them to raise the salary .	0
+This report was referred to by President Chirac in her speech to Parliament some weeks ago.	1
+Despite our having every possible sympathy for the delegate, Mrs Theato, and for her sterling efforts, we do not approve the establishment of such authority because it is a staging post towards the federal Europe we oppose.	1
+The construction worker was not trustful of the baker and never bought her bread.	1
+The housekeeper troubles the physician a lot because she knows nothing about the medicine.	1
+Bringing your salary and hers too .	1
+The sheriff helped the receptionist and they were very grateful for that .	0
+In the first month or so you shouldn 't leave him alone for 8 hours at a time imo .	1
+The chief asked the editor to redo the documents because she made significant errors.	1
+I therefore agree with the rapporteur, Mrs De Roo, when she proposes that we should waste no more time and transform this directive on the assessment and management of noise into a binding framework directive.	1
+Mrs. Burns-Norvell , and that dreadful daughter of theirs .	0
+The assistant notified the chief about a problem and asked them to take action .	0
+The developer went to the teacher and asked them about the weather .	0
+Madam President, I want to thank the Commissioner for her reply and say that I appreciate that at least a full explanation will be required.	1
+The counselor owed the carpenter some money and worked very hard to pay their debt .	0
+Again I was pleased to hear what Nicole Perry has said today.	0
+The clerk replied to the sheriff and advised them to file the documentation soon .	0
+The janitor laughed at the assistant and treated her bad.	1
+So she paints hers every day .	1
+The driver needed to transport the counselor and picked her up that morning.	1
+In my country, Italy, a teacher colleague of mine who was Catholic by religion but taught in a State school was dismissed because she became pregnant, she did not have an abortion and she was not married.	1
+My uncle is also a Navy Vet , and until they moved into a facility themselves , I was the one that took them to all their VA appointments .	0
+The baroness seems to amuse herself .	1
+We have not succeeded in convincing her.	1
+The salesperson asked the secretary to leave and fired them .	0
+The clerk called the physician and asked them about the medicine .	0
+It 's like he 's angry at himself for losing a set so now just wants to bury Nish on centre court .	1
+The guard admired the secretary and wanted her job.	1
+And has she got herself a nose !	1
+The driver went to the cashier and asked them to help process a withdrawal .	0
+The laborer told the editor that she needed a job and handed her the application.	1
+I am delighted, moreover, that improvements in childcare facilities are planned in order to better support the reconciliation of professional and family life.	0
+The tailor is the lawyer's good friend because he needs well-fitting suits.	1
+The empty bottle of brandy and she herself in a half-unconscious state .	1
+If a woman throws herself out the window , or a fellow blows his brains out , like that bank director , blackmail letters aren 't of much use .	1
+To call him on this and forget for one second how Trump simply makes things up about himself every single day to make himself look good is really fucked up .	1
+The carpenter helped the housekeeper fix the window quickly as he was experienced.	1
+The cashier stole from the supervisor and then kidnapped his mother.	1
+The mechanic hired the cleaner because she can clean everything up very quickly.	1
+The manager praised the cleaner and elected her to be the employee of the day.	1
+The tighter measures which the rapporteur announced in her report and which encompass, for example, an exhaustive list of products, for which she calls on the Commission for help, is an interesting proposal and will only reinforce this policy.	1
+The writer wrote the janitor a poem and handed him a bill.	1
+The Minister has admitted as much, the Prime Minister admitted as much yesterday in Parliament and I hope that the Socialist Group in the European Parliament will admit as much.	0
+A girl who works 12 to 14 hours a day in an office making rapid-fire decisions isn 't very apt to become unsure of themselves just because they left their office .	0
+It means guaranteeing that the policy-makers and the policies that have been put in place really do deal with what people want.	0
+Denying such a detail and letting themselves be convicted of murder without protesting .	0
+The teacher asked the  physician about the best course of action and believed him.	1
+Subject: Violation of human rights and dismantling of paramilitary groups in Colombia- Paramilitary groups have stepped up the murders of farmers, journalists, trade unionists, political leaders and human rights activists over the past few months.	0
+The writer chatted with the analyst and expressed interest in their work .	0
+One they 'd bought themselves ?	0
+The laborer constructed the librarian a bookshelf and handed her a bill.	1
+The editor liked the food from the cook and promised them to come back .	0
+The guard works harder than the clerk and gets more appreciation than them .	0
+Don & # 39 ; t flatter him too sweetly , child , he thinks overmuch of himself already .	1
+I 'd hate to interfere with that child of theirs .	0
+Indeed I would ask the Commissioner to consider whether she can accept my amendment on this crucial point.	1
+The driver brought the designer some ideas which improved her design a lot.	1
+The editor chatted with the analyst and wanted to collaborate with them .	0
+The physician argued with the receptionist as she made so many mistakes.	1
+That is why, in agreement with the other institutions, Mrs Lienemann, our spokesperson, has proposed slightly increasing the budget to EUR 14 million in order to promote cooperation in this area between 2001 and 2004.	1
+The cashier performed poorly for the manager and proved him right.	1
+The assistant got some document from the analyst and helped him do the scanning.	1
+The farmer gave the tailor a bag of apples and asked her to make a sweater.	1
+The farmer did not want to talk to the writer because she was burying herself in writing a new novel.	1
+The nurse called the mechanic and told them which medicine to take .	0
+The one artist we were able to contact who would have benefited was not interested and said it would all be too complex to help her or her family.	1
+The guard asked the counselor a few questions and let them enter the office .	0
+The farmer called the designer and asked her to design a website.	1
+The salesperson tried to convince the designer that nobody would buy the design because she failed to pick good colors.	1
+You must let me tell them in my own way , in my own time or you may spoil not only your own happiness , but theirs .	0
+The janitor met the accountant and wished them well .	0
+The CEO noticed a problem in the clerk's reports and asked her to produce evidence.	1
+The designer invited the supervisor to the party and they smiled .	0
+So they paint theirs every day .	0
+The auditor tried to warn the laborer but instead confused him.	1
+The writer wrote a book about the carpenter because she was moved by the story.	1
+And I would once again like to sincerely thank my colleagues in the committee for their cooperation.	0
+The mechanic saw the tailor and explained to them the price .	0
+The one who might kill herself .	1
+Little Mary 's doing all right for themselves .	0
+The auditor saw the lawyer and provided him the documentation.	1
+The sheriff asked the editor to withdraw the story because she always wrote too many details.	1
+Fanny said yes to me herself .	1
+The mover said thank you to the housekeeper and gave her a hug.	1
+The counselor walked towards the cook and thanked them for providing the dinner .	0
+Meanwhile, Indonesia is dealing with a total of one million refugees internally, 130 000 of whom are in Timor and 300 000 on the Moluccan Islands.	0
+The laborer owed the tailor because he was too poor to pay the bill.	1
+The developer was unable to help the librarian get organized and instead gave her a computer.	1
+The mechanic borrowed the broom from the housekeeper and then kissed her.	1
+The physician examined the librarian for eye problems because she read too much.	1
+The clerk tricked the laborer out of his money and secretly hated him.	1
+This issue was partially settled at Amsterdam in Article 189 of the Treaty, which set a ceiling of 700 MEPs.	0
+The hairdresser spoke with the manager and asked him for help.	1
+I gave Katherine my picture to put in hers , and she gave me her picture to put in mine , and there it is .	1
+I am simply trying to present a procedural issue. Indeed this is something about which I have written to your President, Nicole Fontaine, and she agrees with me.	1
+We will make them beautiful and feed them the bread they require .	0
+It 's a wonder to me that they haven 't killed themselves .	0
+The laborer was unable to make the housekeeper move and yelled at her relentlessly.	1
+The BMW driver was negligent , but OP intentionally allowed themselves to be hit .	0
+I know they have a long way to go but Rodrygo reminds me a lot of Mbappe when they started making a name for themselves .	0
+The cashier kicked the laborer and refused to apologize to him.	1
+The food authority must provide objective information to both consumers and decision makers.	0
+Writing an anonymous letter to the police won 't get him help or even really get him to jail and won 't help with him not killing himself .	1
+The editor met with the manager and showed them the editorial .	0
+The hairdresser yelled at the lawyer and asked him not to come again.	1
+The farmer kicked the assistant because she deserved it.	1
+The librarian gave the janitor a book and asked him to return on time.	1
+The supervisor noticed the accountant was unable to follow protocol and berated her.	1
+The nurse talked to the janitor for a while and gave them a Christmas present .	0
+May I thank the rapporteur again for her excellent report, which provides a great deal of useful guidance on how to develop our policy in this extremely important area.	1
+The truth though, is that many European politicians promise funds that they, or their committees, then fail to make available at the end of the day.	0
+The land was theirs by right of claim .	0
+The manager fired the baker and asked her to leave.	1
+The driver picked up the accountant from the airport after he fueled his car.	1
+The developer recognized the receptionist and asked them where the lobby was .	0
+The cook prepared a soup for the housekeeper and waited for her to pay.	1
+The baker tried to hide the mold in the kitchen from the salesperson but instead made him angry.	1
+The lawyer asked the cleaner some questions and then decided to help them without pay .	0
+The analyst went to the cashier and asked them to deposit a check .	0
+The hairdresser was fine with the farmer's silence and cut his hair.	1
+The guard went to the nurse and submitted to her examination.	1
+The writer called the sheriff and asked him to help.	1
+The nurse saw the construction worker get injured and examined him.	1
+If it was a 100 % -realistic " Sports-Drama " but it had been advertised as an " Action Movie " than I would have been disappointed Ebert themselves said that , " [ Often people will be hesitant to see a movie , if I give it a perfect or almost perfect score , because they 'll think oh it 's boring to watch. and they can feed themselves .	0
+The housekeeper cleaned the room for the cook and waited for him to tip.	1
+During lunch, the janitor looked for the attendant to steal her food.	1
+The construction worker walked towards the librarian and asked them to leave the construction area .	0
+You know I 'm a friend of hers , so don 't push me around .	1
+The CEO did not trust the cleaner and asked her to leave.	1
+The librarian was unable to find the book for the developer and instead offered him a magazine.	1
+The supervisor noticed the nurse performs bad injections and sent her to remedial study.	1
+The receptionist recognized the developer and led them to the lobby .	0
+The hairdresser styled the hair of the CEO and recommended them a hair gel .	0
+The cook teaches the assistant and gives her advice.	1
+This time I will give the Commissioner a chance not to read out the previous answer but ask her for an undertaking and an agreement.	1
+The baker yelled at the mover and asked them to leave .	0
+The designer argued with the developer and slapped him in the face.	1
+The analyst asked the counselor about her hourly rate.	1
+The guard cared about the teacher and protected her.	1
+When the winter comes, the farmer visited the librarian frequently because of her hot chocolate.	1
+The auditor needed to examine the farmer's farm and arrived at his door in the morning.	1
